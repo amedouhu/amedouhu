@@ -27,5 +27,4 @@ I've made some of it available on GitHub.
 |---|---|
 |YouTube|https://youtube.com/@amedouhu|
 |Twitter|https://twitter.com/amedouhu|
-|Discord|https://discord.gg/u2AF6MJpv6|
 |Outlook|amedouhu@outlook.com|
