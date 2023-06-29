@@ -16,7 +16,7 @@ For example...
 |WebSearchEngine|Python|
 |WebSite|HTML,CSS,JavaScript|
 |FreeSoft|C#|
-|Amedouhu.speak();|Japanese|
+|speak|Japanese|
 |...|...|
 
 I've made some of it available on GitHub.
