@@ -15,7 +15,7 @@ For example...
 |MinecraftPlugin|Java|
 |WebSearchEngine|Python|
 |WebSite|HTML,CSS,JavaScript|
-|FreeSoft|C#|
+|WindowsFormApp|C#|
 |speak|Japanese|
 |...|...|
 
